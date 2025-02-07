@@ -1,0 +1,15 @@
+D:\a\ИСРПО\GIT_test\GIT_test\makefile_test\makefile_test\bin\Debug\net8.0\makefile_test.exe
+D:\a\ИСРПО\GIT_test\GIT_test\makefile_test\makefile_test\bin\Debug\net8.0\makefile_test.deps.json
+D:\a\ИСРПО\GIT_test\GIT_test\makefile_test\makefile_test\bin\Debug\net8.0\makefile_test.runtimeconfig.json
+D:\a\ИСРПО\GIT_test\GIT_test\makefile_test\makefile_test\bin\Debug\net8.0\makefile_test.dll
+D:\a\ИСРПО\GIT_test\GIT_test\makefile_test\makefile_test\bin\Debug\net8.0\makefile_test.pdb
+D:\a\ИСРПО\GIT_test\GIT_test\makefile_test\makefile_test\obj\Debug\net8.0\makefile_test.GeneratedMSBuildEditorConfig.editorconfig
+D:\a\ИСРПО\GIT_test\GIT_test\makefile_test\makefile_test\obj\Debug\net8.0\makefile_test.AssemblyInfoInputs.cache
+D:\a\ИСРПО\GIT_test\GIT_test\makefile_test\makefile_test\obj\Debug\net8.0\makefile_test.AssemblyInfo.cs
+D:\a\ИСРПО\GIT_test\GIT_test\makefile_test\makefile_test\obj\Debug\net8.0\makefile_test.csproj.CoreCompileInputs.cache
+D:\a\ИСРПО\GIT_test\GIT_test\makefile_test\makefile_test\obj\Debug\net8.0\makefile_test.sourcelink.json
+D:\a\ИСРПО\GIT_test\GIT_test\makefile_test\makefile_test\obj\Debug\net8.0\makefile_test.dll
+D:\a\ИСРПО\GIT_test\GIT_test\makefile_test\makefile_test\obj\Debug\net8.0\refint\makefile_test.dll
+D:\a\ИСРПО\GIT_test\GIT_test\makefile_test\makefile_test\obj\Debug\net8.0\makefile_test.pdb
+D:\a\ИСРПО\GIT_test\GIT_test\makefile_test\makefile_test\obj\Debug\net8.0\makefile_test.genruntimeconfig.cache
+D:\a\ИСРПО\GIT_test\GIT_test\makefile_test\makefile_test\obj\Debug\net8.0\ref\makefile_test.dll
