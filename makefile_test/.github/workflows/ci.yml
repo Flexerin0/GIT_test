@@ -16,7 +16,7 @@ jobs:
           dotnet-version: '8.0'
 
       - name: Restore dependencies
-        run: dotnet restore
+        run: dotnet restore D:\a\ИСРПО\GIT_test\GIT_test\makefile_test\makefile_test.sin
 
       - name: Build project
         run: dotnet build D:\a\ИСРПО\GIT_test\GIT_test\makefile_test\makefile_test.sin --no-restore
