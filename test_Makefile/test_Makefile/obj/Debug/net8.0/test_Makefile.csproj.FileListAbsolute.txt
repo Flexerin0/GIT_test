@@ -1,0 +1,14 @@
+D:\a\ИСРПО\test_Makefile\test_Makefile\bin\Debug\net8.0\test_Makefile.exe
+D:\a\ИСРПО\test_Makefile\test_Makefile\bin\Debug\net8.0\test_Makefile.deps.json
+D:\a\ИСРПО\test_Makefile\test_Makefile\bin\Debug\net8.0\test_Makefile.runtimeconfig.json
+D:\a\ИСРПО\test_Makefile\test_Makefile\bin\Debug\net8.0\test_Makefile.dll
+D:\a\ИСРПО\test_Makefile\test_Makefile\bin\Debug\net8.0\test_Makefile.pdb
+D:\a\ИСРПО\test_Makefile\test_Makefile\obj\Debug\net8.0\test_Makefile.GeneratedMSBuildEditorConfig.editorconfig
+D:\a\ИСРПО\test_Makefile\test_Makefile\obj\Debug\net8.0\test_Makefile.AssemblyInfoInputs.cache
+D:\a\ИСРПО\test_Makefile\test_Makefile\obj\Debug\net8.0\test_Makefile.AssemblyInfo.cs
+D:\a\ИСРПО\test_Makefile\test_Makefile\obj\Debug\net8.0\test_Makefile.csproj.CoreCompileInputs.cache
+D:\a\ИСРПО\test_Makefile\test_Makefile\obj\Debug\net8.0\test_Makefile.dll
+D:\a\ИСРПО\test_Makefile\test_Makefile\obj\Debug\net8.0\refint\test_Makefile.dll
+D:\a\ИСРПО\test_Makefile\test_Makefile\obj\Debug\net8.0\test_Makefile.pdb
+D:\a\ИСРПО\test_Makefile\test_Makefile\obj\Debug\net8.0\test_Makefile.genruntimeconfig.cache
+D:\a\ИСРПО\test_Makefile\test_Makefile\obj\Debug\net8.0\ref\test_Makefile.dll
