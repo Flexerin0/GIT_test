@@ -16,10 +16,10 @@ jobs:
           dotnet-version: '8.0'
 
       - name: Restore dependencies
-        run: dotnet restore makefile_test/makefile_test.sln
+        run: dotnet restore makefile_test/makefile_test/Program.cs
 
       - name: Build project
-        run: dotnet build makefile_test/makefile_test.sln --no-restore
+        run: dotnet build makefile_test/makefile_test/Program.cs --no-restore
 
       - name: Run tests
-        run: dotnet test makefile_test/makefile_test.sln --no-build --verbosity normal
+        run: dotnet test makefile_test/makefile_test/Program.cs --no-build --verbosity normal
